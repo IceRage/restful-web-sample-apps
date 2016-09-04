@@ -1,2 +1,3 @@
-# restful-web-sample-apps
-Sample applications that use RESTful web service APIs.
+# Sample applications that use RESTful web service APIs.
+
+Details will be potentially added at a later time.
